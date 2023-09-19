@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## NOT IN USE - GOT TO SMMLEGAL PAGE FOR ACTIVE SITE - Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Andrewcm09/Bizsearch/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
